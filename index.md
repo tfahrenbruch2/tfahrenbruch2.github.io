@@ -4,8 +4,6 @@ Welcome to my personal website! Here you'll find information about my background
 
 ---
 
-##
-
 I am an undergraduate student in Civil Engineering at the University of Nebraska-Lincoln.  
 My interests include city planning and structures.
 
